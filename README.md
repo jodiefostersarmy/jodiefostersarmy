@@ -9,7 +9,7 @@ Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from
 
 **Stuff about me:**
 
-- 🔭 I’m currently a student at Coder Academy.
+- ⚡️ I’m currently a student at Coder Academy.
 - 🌱 I’m currently learning Docker and Terraform.
 - 📫 How to reach me: At any of the social links at the bottom of this page.
 
