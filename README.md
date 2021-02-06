@@ -25,6 +25,9 @@ Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from
 - 🌱 I’m currently learning Docker and Terraform.
 - 📫 How to reach me: Any of the Social-Media Platform 
 
+<br />
+<br />
+<br />
 
 **Languages and Tools:**
 
@@ -35,5 +38,10 @@ Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
-view rawBlog hosted with ❤ by GitHub
+<br />
+<br />
+
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodiefostersarmy)](https://github.com/jodiefostersarmy/github-readme-stats)
+
+
+
