@@ -2,7 +2,7 @@
 ### Hello World 👋 It's [Anthony](https://anthonykwang.com/)
 
 <br/>
-
+<br/>
 
 <a href="https://twitter.com/anthonykwang">
 <img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,7 +17,8 @@
 
 Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from that I love getting involved in Problem Solving.
 
-
+<br/>
+<br/>
 
 **Talking about Personal Stuffs:**
 
