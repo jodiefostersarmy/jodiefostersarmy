@@ -1,21 +1,19 @@
 
-### Hello World 👋 It's [Anthony](https://anthonykwang.com/)
+# Hello World 👋
 
----
 
-<br />
-<br />
 
-Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from that I love getting involved in Problem Solving.
+
+Hi, I'm [Anthony](https://anthonykwang.com/), a Web Developer, Cloud Student and Cyber Enthusiast. Apart from that I love getting involved in Problem Solving.
 
 <br/>
 <br/>
 
-**Talking about Personal Stuffs:**
+**Stuff about me:**
 
 - 🔭 I’m currently a student at Coder Academy.
 - 🌱 I’m currently learning Docker and Terraform.
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📫 How to reach me: At any of the social links at the bottom of this page.
 
 <br />
 <br />
@@ -36,8 +34,9 @@ Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from
 [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodiefostersarmy)](https://github.com/jodiefostersarmy/github-readme-stats)
 
 
-**You can also find me at:**
-
+**You can also find me and connect with me at:**
+<br />
+<br />
 <a href="https://twitter.com/anthonykwang">
 <img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
