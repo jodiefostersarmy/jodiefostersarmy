@@ -1,5 +1,5 @@
 
-### Hello World 👋 It's Anthony (https://anthonykwang.com/)
+### Hello World 👋 It's [Anthony](https://anthonykwang.com/)
 
 <br/>
 
