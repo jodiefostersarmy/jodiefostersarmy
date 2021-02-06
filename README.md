@@ -1,18 +1,9 @@
 
 ### Hello World 👋 It's [Anthony](https://anthonykwang.com/)
 
-<br/>
-<br/>
-
-<a href="https://twitter.com/anthonykwang">
-<img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anthony-k-a723191aa/">
-<img align="left" alt="Anthony Kwang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+---
 
 <br />
-
 <br />
 
 Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from that I love getting involved in Problem Solving.
@@ -45,4 +36,12 @@ Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. Apart from
 [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodiefostersarmy)](https://github.com/jodiefostersarmy/github-readme-stats)
 
 
+**You can also find me at:**
+
+<a href="https://twitter.com/anthonykwang">
+<img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anthony-k-a723191aa/">
+<img align="left" alt="Anthony Kwang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
