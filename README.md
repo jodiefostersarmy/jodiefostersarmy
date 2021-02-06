@@ -7,7 +7,6 @@ Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast.
 Apart from that I love getting involved in Problem Solving.
 
 <br/>
-<br/>
 
 **Stuff about me:**
 
@@ -15,8 +14,6 @@ Apart from that I love getting involved in Problem Solving.
 - 🗿 I’m currently learning Docker and Terraform.
 - 🪤 How to reach me: At any of the social links at the bottom of this page.
 
-<br />
-<br />
 <br />
 
 **Languages and Tools:**
@@ -29,10 +26,6 @@ Apart from that I love getting involved in Problem Solving.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
-<br />
-
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodiefostersarmy)](https://github.com/jodiefostersarmy/github-readme-stats)
-
 
 **You can also find me and connect with me at:**
 <br />
