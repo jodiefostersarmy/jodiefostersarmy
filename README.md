@@ -2,7 +2,7 @@
 ## Hello World 👋
 
 
-Hi, I'm Anthony, a Web Developer, Cloud Student and Cyber Enthusiast. 
+Hi, I'm Anthony, currently studying Web Development, AWS Cloud and Cyber. 
 
 Apart from that I love getting involved in Problem Solving.
 
