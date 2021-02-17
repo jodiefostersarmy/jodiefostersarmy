@@ -14,7 +14,7 @@ Apart from that I love getting involved in Problem Solving.
 - 🗿 I’m currently learning Docker and Terraform.
 - 🪤 How to reach me: At any of the social links at the bottom of this page.
 - 🪑 Design enthusiast
-- 🎱 Junior DevSecOps in training
+- 🎱 Junior DevSecOps engineer in training
 
 <br />
 
