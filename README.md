@@ -30,8 +30,7 @@ Apart from that I love getting involved in Problem Solving.
 <br />
 
 **You can also find me and connect with me at:**
-<br />
-<br />
+
 <a href="https://twitter.com/anthonykwang">
 <img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
 </a>
@@ -39,4 +38,6 @@ Apart from that I love getting involved in Problem Solving.
 <img align="left" alt="Anthony Kwang" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <br />
+<p>
 ![](https://komarev.com/ghpvc/?username=jodiefostersarmy)
+</p>
