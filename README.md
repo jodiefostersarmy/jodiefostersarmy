@@ -34,7 +34,7 @@ Apart from that I love getting involved in Problem Solving.
 <a href="https://twitter.com/anthonykwang">
 <img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
 </a>
-<a href="https://www.linkedin.com/in/anthony-k-a723191aa/">
+<a href="www.linkedin.com/in/anthonykwang">
 <img align="left" alt="Anthony Kwang" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 
