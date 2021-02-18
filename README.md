@@ -11,10 +11,10 @@ Apart from that I love getting involved in Problem Solving.
 **Stuff about me:**
 
 - ⚡️ I’m currently a student at Coder Academy.
-- 🗿 I’m currently learning Docker and Terraform.
+- 🗿 Learning the MERN stack.
 - 🪤 How to reach me: At any of the social links at the bottom of this page.
-- 🪑 Design enthusiast
-- 🎱 Junior DevSecOps engineer in training
+- 🪑 Design enthusiast.
+- 🎱 DevSecOps engineer in training.
 
 <br />
 
