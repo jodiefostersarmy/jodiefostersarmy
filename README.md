@@ -2,7 +2,7 @@
 ## Sawabona <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"/>
 
 
-Hi, I'm Anthony, currently studying Web Development, AWS Cloud and Cyber.
+Hi, I'm Anthony, a developer currently studying Web Development, AWS Cloud and Cyber.
 
 Apart from that I love getting involved in Problem Solving.
 
