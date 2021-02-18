@@ -39,4 +39,4 @@ Apart from that I love getting involved in Problem Solving.
 <img align="left" alt="Anthony Kwang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-https://camo.githubusercontent.com/9bcd79add00d9471e39158e00660dad998aee84efe7ba7d0d96f459392cce468/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7269786f6e3935
+<img src="https://camo.githubusercontent.com/9bcd79add00d9471e39158e00660dad998aee84efe7ba7d0d96f459392cce468/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7269786f6e3935" alt="jodiefostersarmy" data-canonical-src="https://komarev.com/ghpvc/?username=jodiefostersarmy" style="max-width:100%;">
