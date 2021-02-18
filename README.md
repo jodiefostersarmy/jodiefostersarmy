@@ -1,5 +1,5 @@
 
-## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
+## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40%" height="40%"/>
 
 
 Hi, I'm Anthony, currently studying Web Development, AWS Cloud and Cyber.
