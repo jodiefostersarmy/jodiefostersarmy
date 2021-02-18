@@ -38,6 +38,8 @@ Apart from that I love getting involved in Problem Solving.
 <img align="left" alt="Anthony Kwang" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <br />
-<p>
+<br />
+<br />
+
 ![](https://komarev.com/ghpvc/?username=jodiefostersarmy)
-</p>
+
