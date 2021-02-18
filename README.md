@@ -33,7 +33,7 @@ Apart from that I love getting involved in Problem Solving.
 <br />
 <br />
 <a href="https://twitter.com/anthonykwang">
-<img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Anthony Kwang | Twitter" width="22px" src="https://raw.githubusercontent.com/jodiefostersarmy/jodiefostersarmy/main/images/twitter-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anthony-k-a723191aa/">
 <img align="left" alt="Anthony Kwang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
