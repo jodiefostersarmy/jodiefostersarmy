@@ -10,7 +10,7 @@ Apart from that I love getting involved in Problem Solving.
 
 **Stuff about me:**
 
-- ⚡️ I’m currently a student at Coder Academy.
+- ⚡️ I’m a recent Full-Stack Developer Graduate
 - 🗿 Learning the MERN stack.
 - 🪤 How to reach me: At any of the social links at the bottom of this page.
 - 🪑 Design enthusiast.
