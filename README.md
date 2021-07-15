@@ -2,7 +2,7 @@
 ## Sawabona <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"/>
 
 
-Hi, I'm Anthony, a recent developer graduate focusing on Python cloud-based web applications with a curiousity towards UX.
+Hi, I'm Anthony, an associate DevOps engineer exploring Python cloud-based web applications with a curiousity towards UX.
 
 Apart from that I love getting involved in Problem Solving.
 
@@ -11,7 +11,7 @@ Apart from that I love getting involved in Problem Solving.
 **Stuff about me:**
 
 - ⚡️ I’m a recent Full-Stack Developer Graduate
-- 🗿 Learning the MERN stack.
+- 🗿 Learning the how to DevOps.
 - 🪤 How to reach me: At any of the social links at the bottom of this page.
 - 🪑 Design enthusiast.
 - 🎱 DevSecOps engineer in training.
