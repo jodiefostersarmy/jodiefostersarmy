@@ -4,17 +4,17 @@
 
 Hi, I'm Anthony, an associate DevOps engineer exploring Python cloud-based web applications with a curiousity towards UX.
 
-Apart from that I love getting involved in Problem Solving.
+Outside of the IT space, I do woodworking and ceramics - a different kind of problem solving.
 
 <br/>
 
 **Stuff about me:**
 
-- ⚡️ I’m a recent Full-Stack Developer Graduate
-- 🗿 Learning the how to DevOps.
+- ⚡️ I’m a Full-Stack Developer Graduate
+- 🗿 Associate DevOps Engineer
 - 🪤 How to reach me: At any of the social links at the bottom of this page.
 - 🪑 Design enthusiast.
-- 🎱 DevSecOps engineer in training.
+- 🎱 Cyber Security student
 
 <br />
 
