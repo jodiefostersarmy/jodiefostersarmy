@@ -11,7 +11,7 @@ Outside of the IT space, I do woodworking and ceramics - a different kind of pro
 **Stuff about me:**
 
 - ⚡️ I’m a Full-Stack Developer Graduate
-- 🗿 Associate DevOps Engineer
+- 🗿 Associate DevOps Engineer in FinTech
 - 🪤 How to reach me: At any of the social links at the bottom of this page.
 - 🪑 Design enthusiast.
 - 🎱 Cyber Security student
