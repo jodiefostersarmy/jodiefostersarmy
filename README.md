@@ -1,20 +1,14 @@
-
-## Sawabona <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"/>
-
-
 Hi, I'm Anthony, a DevOps engineer exploring Python cloud-based web applications with a curiousity towards UX.
 
-Outside of the IT space, I do woodworking and ceramics - a different kind of problem solving.
+Outside of the IT space, I work on <link href="https://www.surplus.sydney/guests">creative projects</link> like graphic design, woodworking, mixed-media and textiles.
 
 <br/>
 
 **Stuff about me:**
 
-- ⚡️ I’m a Full-Stack Developer Graduate
-- 🗿 DevOps Engineer in Enterprise FinTech
-- 🪤 How to reach me: At any of the social links at the bottom of this page.
+- 🗿 Engineer subscribed to the principles, tools and cultural philosophy of DevOps.
 - 🪑 Design enthusiast.
-- 🎱 Cyber Security student
+- 🎱 Sub-culture social science casual.
 
 <br />
 
