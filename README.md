@@ -1,6 +1,6 @@
 Hi, I'm Anthony, a DevOps engineer exploring Python cloud-based web applications with a curiousity towards UX.
 
-Outside of the IT space, I work on <link href="https://www.surplus.sydney/guests">creative projects</link> like graphic design, woodworking, mixed-media and textiles.
+Outside of the IT space, I work on <a href="https://www.surplus.sydney/guests">creative projects</a> like graphic design, woodworking, mixed-media and textiles.
 
 <br/>
 
